@@ -1,0 +1,9 @@
+Id,firstName,lastName,salary,managerId
+1,John,Smith,200000,
+2,Alice,Johnson,120000,1
+3,Bob,Williams,110000,1
+4,Carol,Jones,70000,2
+5,David,Brown,75000,2
+6,Eve,Davis,72000,3
+7,Frank,Miller,71000,3
+8,Grace,Wilson,69000,7
